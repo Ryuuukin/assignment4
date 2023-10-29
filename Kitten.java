@@ -1,0 +1,3 @@
+interface Kitten {
+    String getDescription();
+}
