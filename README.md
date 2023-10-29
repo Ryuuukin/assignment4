@@ -25,6 +25,8 @@
                             - name: String                   - name: String
                             + getName                        + getDescription
                             + getDescription
+
+
                             
 SRP: each class has a single resposibility
 OCP: easily add new types of kittens (new concrete products) or students (new observers)
